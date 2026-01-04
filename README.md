@@ -7,9 +7,9 @@
 <br>
 
 #### Things I'm interested in:
-✨ Generative Models
-🕊️ FOSS
-⚙️ Data Engineering / MLOps
+✨ Generative Models <br>
+🕊️ FOSS <br>
+⚙️ Data Engineering / MLOps <br>
 🍜 Sampling Ramen
 
 </div>
