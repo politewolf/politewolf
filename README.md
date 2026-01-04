@@ -4,4 +4,12 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHloc29iYzRxNDJ4NzNoMnZsNWJrd2hwMXU2Z3BmZmw1cDZzbHZtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="50%" />
 
+<br>
+
+#### Things I'm interested in:
+✨ Generative Models
+🕊️ FOSS
+⚙️ Data Engineering / MLOps
+🍜 Sampling Ramen
+
 </div>
